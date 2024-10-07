@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "electronics",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F11%2F12%2F24%2F24%2F0c20b0d4-465d-433c-bc76-e877fdbbeef6%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 959.99
+    },
+    {
+      "id": "2",
+      "category": "electronics",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F09%2F11%2F53%2F56%2F0405abf0-582d-45e4-bdf3-5b0be34dd4a5%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 889.99
+    },
+    {
+      "id": "3",
+      "category": "electronics",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F05%2F03%2F58%2F11%2F136bc6c7-6c0b-4894-b9d1-f702e8107375%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 579.99
+    },
+    {
+      "id": "4",
+      "category": "electronics",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F02%2F23%2F57%2F03%2F6929a6d7-84b9-4cb7-b5ac-44f9cfcf4493%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 1279.99
+    },
+    {
+      "id": "5",
+      "category": "electronics",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F06%2F19%2F14%2F58%2F00%2Ff2a9c512-4374-44df-a5fe-c9b54110eb20%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+      "price": 879.99
+    },
+    {
+      "id": "6",
+      "category": "electronics",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F09%2F11%2F25%2F22%2F977d054d-72b8-465b-9d7f-547a4d4ef2c4%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 560.99
+    },
+    {
+      "id": "7",
+      "category": "animals",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F08%2F07%2F17%2F57%2F21%2Fc14ddc23-efa2-4de5-abe7-87975da02c53%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 34.99
+    },
+    {
+      "id": "8",
+      "category": "animals",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F29%2F19%2F11%2F01%2F8c1a988c-0fbd-4f5c-afb5-a7207396af3b%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 23.99
+    },
+    {
+      "id": "9",
+      "category": "animals",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F08%2F31%2F18%2F54%2F38%2F689d281c-ae57-4909-8f36-eb5ef1dd0c7f%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 50.99
+    },
+    {
+      "id": "10",
+      "category": "animals",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F27%2F18%2F26%2F04%2Fdf351985-639a-471a-a6a8-492f3020eee3%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 29.99
+    },
+    {
+      "id": "11",
+      "category": "animals",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F08%2F21%2F16%2F35%2F05%2Ff89e613c-3520-483d-b315-be845b9aa24f%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 50.99
+    },
+    {
+      "id": "12",
+      "category": "animals",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F12%2F14%2F58%2F20%2F8dbe8089-14bf-4c4e-b362-b9a7ee8ede6d%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 70.99
+    },
+    {
+      "id": "7f40",
+      "category": "electronics",
+      "price": "800",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F06%2F14%2F25%2F29%2F719859b9-9382-4b08-aefd-1cb45fe6408f%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "description": "",
+      "username": "ali"
+    },
+    {
+      "id": "fa7d",
+      "category": "electronics",
+      "price": "200",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F08%2F03%2F18%2F15%2F37%2Fe798be5b-0e85-4a98-af89-9b6ee8de1a3d%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+      "description": "wewew",
+      "username": "azer"
+    },
+    {
+      "id": "c939",
+      "category": "electronics",
+      "price": null,
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F08%2F03%2F18%2F15%2F37%2Fe798be5b-0e85-4a98-af89-9b6ee8de1a3d%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+      "description": "good product",
+      "username": "ali"
+    }
+  ],
+  "son-elanlar": [
+    {
+      "id": "13",
+      "description": "Samsung Galaxy A35 5G Awesome Navy 256GB/8GB",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F05%2F13%2F17%2F50%2F057196fd-7384-4b6c-98c1-911ca78a5d70%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 99.99,
+      "category": "son elanlar"
+    },
+    {
+      "id": "14",
+      "description": "Samsung Galaxy A35 5G Awesome Navy 256GB/8GB",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F05%2F13%2F08%2F02%2F56ebf73e-938a-4409-b46d-94d7cf5b93e8%2F11375_qXr7-N1ppBcS2a5TEaxWRQ.jpg",
+      "price": 89.99,
+      "category": "son elanlar"
+    },
+    {
+      "id": "15",
+      "description": "Samsung Galaxy A35 5G Awesome Navy 256GB/8GB",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F18%2F02%2F39%2F26%2F6f8745da-ca78-407b-9e8c-340615dd6071%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 79.99,
+      "category": "son elanlar"
+    },
+    {
+      "id": "16",
+      "description": "Samsung Galaxy A35 5G Awesome Navy 256GB/8GB",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F03%2F12%2F52%2F58%2F4d4ca510-0efb-436c-bd1c-5a0c5b5ead83%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 99.99,
+      "category": "son elanlar"
+    },
+    {
+      "id": "17",
+      "description": "Samsung Galaxy A35 5G Awesome Navy 256GB/8GB",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F03%2F12%2F52%2F58%2F4d4ca510-0efb-436c-bd1c-5a0c5b5ead83%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 89.99,
+      "category": "son elanlar"
+    },
+    {
+      "id": "18",
+      "description": "Samsung Galaxy A35 5G Awesome Navy 256GB/8GB",
+      "image": "https://tap.azstatic.com/uploads/medium/2021%2F09%2F06%2F18%2F01%2F06%2Fd1bd972e-1a75-4a2d-9231-8e7261cf057d%2F61069_PBoTQTgeQDz7CRg-M-6tsw.jpg",
+      "price": 79.99,
+      "category": "son elanlar"
+    }
+  ],
+  "vip-elanlar": [
+    {
+      "id": "19",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F19%2F19%2F30%2F46%2Fccd95932-11e8-453c-91cd-9e9b17e8b8a7%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 99.99,
+      "category": "vip elanlar"
+    },
+    {
+      "id": "20",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F21%2F08%2F42%2F54%2F4780be37-840d-41bd-945f-4a3322ff0209%2F76402_Kt6M8xdUQ8mUvNPSzi54jw.jpg",
+      "price": 89.99,
+      "category": "vip elanlar"
+    },
+    {
+      "id": "21",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F07%2F10%2F23%2F42%2F18%2Fc0835c3d-e44e-43de-9e00-ebdd305c08c6%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+      "price": 79.99,
+      "category": "vip elanlar"
+    },
+    {
+      "id": "22",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F01%2F02%2F22%2F04%2F55%2Fc7eaf6ce-cf72-412b-9c0e-c6507df2256f%2F56337_4IMAttlI-e05rKUn3vFmzw.jpg",
+      "price": 99.99,
+      "category": "vip elanlar"
+    },
+    {
+      "id": "23",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F19%2F19%2F30%2F46%2Fccd95932-11e8-453c-91cd-9e9b17e8b8a7%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 89.99,
+      "category": "vip elanlar"
+    },
+    {
+      "id": "24",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F09%2F19%2F19%2F30%2F46%2Fccd95932-11e8-453c-91cd-9e9b17e8b8a7%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 79.99,
+      "category": "vip elanlar"
+    }
+  ],
+  "premium-elanlar": [
+    {
+      "id": "25",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2022%2F02%2F02%2F19%2F49%2F20%2F53dc4e58-3f17-4a95-a5a5-ee8e95333760%2F65362_Oe-Sdod6LrXRpuQADmvqEg.jpg",
+      "price": 99.99,
+      "category": "premium elanlar"
+    },
+    {
+      "id": "26",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2022%2F02%2F02%2F19%2F49%2F20%2F53dc4e58-3f17-4a95-a5a5-ee8e95333760%2F65362_Oe-Sdod6LrXRpuQADmvqEg.jpg",
+      "price": 89.99,
+      "category": "premium elanlar"
+    },
+    {
+      "id": "27",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F04%2F23%2F36%2F49%2Fc39bc6bd-2342-429c-a50f-0fa600831684%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 79.99,
+      "category": "premium elanlar"
+    },
+    {
+      "id": "28",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F04%2F23%2F36%2F49%2Fc39bc6bd-2342-429c-a50f-0fa600831684%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 99.99,
+      "category": "premium elanlar"
+    },
+    {
+      "id": "29",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F04%2F23%2F36%2F49%2Fc39bc6bd-2342-429c-a50f-0fa600831684%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 89.99,
+      "category": "premium elanlar"
+    },
+    {
+      "id": "30",
+      "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical",
+      "image": "https://tap.azstatic.com/uploads/medium/2024%2F10%2F04%2F23%2F36%2F49%2Fc39bc6bd-2342-429c-a50f-0fa600831684%2F26954_DWgEQQqRrb1W5yDQKFgsVA.jpg",
+      "price": 79.99,
+      "category": "premium elanlar"
+    }
+  ],
+  "users": [
+    {
+      "id": "fc4e",
+      "username": "ali",
+      "password": "123456"
+    },
+    {
+      "id": "d537",
+      "username": "farid",
+      "password": "123456"
+    },
+    {
+      "id": "8bc7",
+      "username": "azer",
+      "password": "123456"
+    }
+  ]
+}
